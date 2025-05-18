@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.75,
-          "height": 0.75,
-          "width": 0.75
+          "drill": 5.05,
+          "height": 5.05,
+          "width": 5.05
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -459,7 +459,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "osprette_v3.kicad_pro",
+    "filename": "osprangle.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -493,12 +493,12 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "osprette_v3.emn",
+      "idf": "osprangle.emn",
       "netlist": "",
-      "plot": "gerber",
+      "plot": "osprangle",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "case/osprette_v3.step",
+      "step": "case/osprangle.step",
       "svg": "",
       "vrml": ""
     },
