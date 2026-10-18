@@ -1,3 +1,7 @@
+> **Moved.** This board now lives in the [Osprette family repo](https://github.com/smores56/osprette), under [`osprangle/`](https://github.com/smores56/osprette/tree/main/osprangle).
+
+---
+
 The Osprangle
 =============
 
